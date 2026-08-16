@@ -1,0 +1,24 @@
+{
+  "name": "Habit Tracker & Tasks",
+  "short_name": "Habits",
+  "description": "Kunlik odat va vazifa kuzatuvchi ilova",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09244A",
+  "theme_color": "#09244A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
